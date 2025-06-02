@@ -71,6 +71,26 @@ contai-accounting-dashboard/
 
 [Access the deployed app on Vercel](https://contai-accounting-dashboard-hzkbkdwfs.vercel.app/)
 
+## 🐳 Running the Database with Docker
+
+To start a local PostgreSQL database using Docker, run the following command in the project root (where the `docker-compose.yml` file is located):
+
+```docker-compose up -d```
+
+This will:
+- Download the official PostgreSQL image if you don't have it yet;
+- Create a container with your database, user, and password as configured;
+- Expose the database on `localhost:5432`;
+- Persist data in a local Docker volume.
+
+To stop the database, run:
+
+```docker-compose down```
+
+> Make sure your backend `.env` file matches the database credentials set in `docker-compose.yml`.
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.
