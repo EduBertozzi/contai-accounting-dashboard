@@ -1,4 +1,4 @@
-# ContAI Accounting Dashboard (V.1.0)
+# ContAI Accounting Dashboard (VERSION - 1.0)
 
 A modern, full-stack accounting dashboard for registering and visualizing financial entries, built for ContAI.  
 Easily manage, analyze, and audit your company's finances with monthly summaries, validations, and a clean UI.
