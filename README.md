@@ -1,3 +1,5 @@
+![ContAI Banner](https://imgur.com/a/Z507nHU.png)
+
 # ContAI Accounting Dashboard (VERSION - 1.0)
 
 A modern, full-stack accounting dashboard for registering and visualizing financial entries, built for ContAI.  
