@@ -32,6 +32,7 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 
 ### Backend
 
+```bash
 cd server
 npm install
 cp .env.example .env
