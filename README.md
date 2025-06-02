@@ -1,51 +1,46 @@
-ContAI Accounting Dashboard
-A modern, full-stack accounting dashboard for registering and visualizing financial entries, built for ContAI.
+# ContAI Accounting Dashboard
+
+A modern, full-stack accounting dashboard for registering and visualizing financial entries, built for ContAI.  
 Easily manage, analyze, and audit your company's finances with monthly summaries, validations, and a clean UI.
 
-🚀 Features
-Register, edit, and delete credit/debit entries
+---
 
-Monthly summary and totals
+## 🚀 Features
 
-Data validation and user feedback
+- Register, edit, and delete credit/debit entries
+- Monthly summary and totals
+- Data validation and user feedback
+- Responsive design and dark mode
+- Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM
+- Frontend: React and Material UI
 
-Responsive design and dark mode
+---
 
-Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM
+## 📚 Table of Contents
 
-Frontend: React and Material UI
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Environment Variables](#️-environment-variables)
+- [Folder Structure](#-folder-structure)
+- [License](#-license)
 
-📚 Table of Contents
-Features
+---
 
-Getting Started
+## 🏁 Getting Started
 
-Backend
+### Backend
 
-Frontend
-
-Environment Variables
-
-Folder Structure
-
-License
-
-🏁 Getting Started
-Backend
 cd server
 npm install
 cp .env.example .env
 
-Edit your .env with your database credentials
-npm run dev
+---
 
-Frontend
-cd client
-npm install
-npm start
+## ⚙️ Environment Variables
 
-⚙️ Environment Variables
-Create a file named .env inside the server/ folder with the following content:
+Create a file named `.env` inside the `server/` folder with the following content:
 
 DB_HOST=localhost
 DB_PORT=5432
@@ -53,7 +48,10 @@ DB_USER=postgres
 DB_PASSWORD=yourpassword
 DB_NAME=contai_accounting
 
-📁 Folder Structure
+---
+
+## 📁 Folder Structure
+
 contai-accounting-dashboard/
 │
 ├── client/ # React frontend
@@ -62,6 +60,9 @@ contai-accounting-dashboard/
 ├── README.md
 └── LICENSE
 
-📄 License
+---
+
+## 📄 License
+
 This project is licensed under the MIT License.
 
