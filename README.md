@@ -67,6 +67,10 @@ contai-accounting-dashboard/
 
 ---
 
+## 🚀 Live Demo
+
+[Access the deployed app on Vercel]([https://seuprojeto.vercel.app/](https://contai-accounting-dashboard-git-main-eduardo-bertozzis-projects.vercel.app))
+
 ## 📄 License
 
 This project is licensed under the MIT License.
