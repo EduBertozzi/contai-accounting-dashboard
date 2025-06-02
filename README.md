@@ -1,4 +1,4 @@
-![ContAI Banner](https://imgur.com/a/Z507nHU)
+![ContAI Banner](https://imgur.com/9ckOBAN.png)
 
 # ContAI Accounting Dashboard (VERSION - 1.0)
 
