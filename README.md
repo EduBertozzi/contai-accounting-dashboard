@@ -36,6 +36,7 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 cd server
 npm install
 cp .env.example .env
+```
 
 ---
 
@@ -43,16 +44,18 @@ cp .env.example .env
 
 Create a file named `.env` inside the `server/` folder with the following content:
 
-DB_HOST=localhost
+```DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=yourpassword
 DB_NAME=contai_accounting
+```
 
 ---
 
 ## 📁 Folder Structure
 
+```
 contai-accounting-dashboard/
 │
 ├── client/ # React frontend
@@ -60,6 +63,7 @@ contai-accounting-dashboard/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
 
 ---
 
