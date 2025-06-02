@@ -71,3 +71,5 @@ contai-accounting-dashboard/
 
 This project is licensed under the MIT License.
 
+Developed by Eduardo Bertozzi
+
