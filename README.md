@@ -67,7 +67,7 @@ contai-accounting-dashboard/
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Front-end Live Demo
 
 [Access the deployed app on Vercel](https://contai-accounting-dashboard-hzkbkdwfs.vercel.app/)
 
