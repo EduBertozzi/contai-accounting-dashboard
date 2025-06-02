@@ -69,7 +69,7 @@ contai-accounting-dashboard/
 
 ## 🚀 Live Demo
 
-[Access the deployed app on Vercel]([https://seuprojeto.vercel.app/](https://contai-accounting-dashboard-git-main-eduardo-bertozzis-projects.vercel.app))
+[Access the deployed app on Vercel]([[https://seuprojeto.vercel.app/](https://contai-accounting-dashboard-hzkbkdwfs.vercel.app/)])
 
 ## 📄 License
 
