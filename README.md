@@ -7,12 +7,12 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 
 ## 🚀 Features
 
-- 📥 Register, edit, and delete credit/debit entries
-- 📊 Monthly summary and totals
-- ✅ Data validation and user feedback
-- 🌙 Responsive design and dark mode
-- 🛠️ Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM
-- 💻 Frontend: React and Material UI
+- Register, edit, and delete credit/debit entries
+- Monthly summary and totals
+- Data validation and user feedback
+- Responsive design and dark mode
+- Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM
+- Frontend: React and Material UI
 
 ---
 
@@ -22,9 +22,9 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 - [Getting Started](#-getting-started)
   - [Backend](#backend)
   - [Frontend](#frontend)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [License](#license)
+- [Environment Variables](#️-environment-variables)
+- [Folder Structure](#-folder-structure)
+- [License](#-license)
 
 ---
 
@@ -32,50 +32,46 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 
 ### Backend
 
+```bash
 cd server
 npm install
 cp .env.example .env
-
-Edit your .env with your database credentials
+# Edit your .env with your database credentials
 npm run dev
-
-
-### Frontend
-
+Frontend
+bash
 cd client
 npm install
 npm start
+⚙️ Environment Variables
+Create a file named .env inside the server/ folder with the following content:
 
----
-
-## ⚙️ Environment Variables
-
-Create a file named `.env` inside the `server/` folder with the following content:
-
+text
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=yourpassword
 DB_NAME=contai_accounting
-
----
-
-## 📁 Folder Structure
-
+📁 Folder Structure
+text
 contai-accounting-dashboard/
 │
-├── client/ # React frontend
-├── server/ # Node.js backend
+├── client/      # React frontend
+├── server/      # Node.js backend
 ├── .gitignore
 ├── README.md
 └── LICENSE
-
----
-
-## 📄 License
-
+📄 License
 This project is licensed under the MIT License.
 
+text
+
 ---
 
-## 📄 License
+**Dicas:**
+- Sempre use blocos de código (```
+- Não misture texto solto após comandos.
+- Separe seções com linhas (`---`) para clareza.
+- Use listas para tópicos e instruções.
+
+Assim seu README ficará bonito e profissional, como nos melhores projetos do GitHub[2][3][5][7][8].
