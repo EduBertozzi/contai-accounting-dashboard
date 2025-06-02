@@ -7,12 +7,12 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 
 ## 🚀 Features
 
-- Register, edit, and delete credit/debit entries
-- Monthly summary and totals
-- Data validation and user feedback
-- Responsive design and dark mode
-- Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM
-- Frontend: React and Material UI
+- Register, edit, and delete credit/debit entries;
+- Monthly summary and totals;
+- Data validation and user feedback;
+- Responsive design and dark mode;
+- Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM;
+- Frontend: React and Material UI.
 
 ---
 
