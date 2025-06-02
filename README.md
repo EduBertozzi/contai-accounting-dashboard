@@ -1,4 +1,4 @@
-# ContAI Accounting Dashboard
+# ContAI Accounting Dashboard (V.1.0)
 
 A modern, full-stack accounting dashboard for registering and visualizing financial entries, built for ContAI.  
 Easily manage, analyze, and audit your company's finances with monthly summaries, validations, and a clean UI.
@@ -10,7 +10,7 @@ Easily manage, analyze, and audit your company's finances with monthly summaries
 - Register, edit, and delete credit/debit entries;
 - Monthly summary and totals;
 - Data validation and user feedback;
-- Responsive design and dark mode;
+- Responsive design;
 - Backend: Node.js, TypeScript, Express, PostgreSQL, TypeORM;
 - Frontend: React and Material UI.
 
